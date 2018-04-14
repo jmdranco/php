@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MUSEUMS>
+    <MUSEUM childrenAllowed="true">
+        <CITY>Madrid</CITY>
+        <PERMANENT_EXHIBITION>
+            <ARTIST>Cheese</ARTIST>
+            <ARTIST></ARTIST>
+            <ARTIST>Black Olives</ARTIST>
+            <NAME>DRI</NAME>
+            <FROM>Paris</FROM>
+            <TO>London</TO>
+        </PERMANENT_EXHIBITION>
+        <PERMANENT_EXHIBITION>
+	            <ARTIST>Cheese</ARTIST>
+	            <ARTIST/>
+	            <ARTIST>Black Olives</ARTIST>
+	            <NAME>DRASS</NAME>
+	            <FROM>Paris</FROM>
+	            <TO>London</TO>
+        </PERMANENT_EXHIBITION>
+        <MUSEUM_NAME>Louvre</MUSEUM_NAME>
+    </MUSEUM>
+    <MUSEUM childrenAllowed="true">
+            <CITY>Tokyo</CITY>
+            <PERMANENT_EXHIBITION>
+                <ARTIST>John</ARTIST>
+                <ARTIST>Pepperoni</ARTIST>
+                <ARTIST>Black Olives</ARTIST>
+                <NAME>DRA</NAME>
+                <FROM>Paris</FROM>
+                <TO>London</TO>
+            </PERMANENT_EXHIBITION>
+            <MUSEUM_NAME>MNYK</MUSEUM_NAME>
+    </MUSEUM>
+    <MUSEUM childrenAllowed="true">
+                <CITY>Pekin</CITY>
+                <PERMANENT_EXHIBITION>
+                    <ARTIST>Cheese</ARTIST>
+                    <ARTIST>Pepperoni</ARTIST>
+                    <ARTIST>Black Olives</ARTIST>
+                    <NAME>DRO</NAME>
+                    <FROM>Paris</FROM>
+                    <TO>London</TO>
+                </PERMANENT_EXHIBITION>
+                <PERMANENT_EXHIBITION>
+		                    <ARTIST>Vigne</ARTIST>
+		                    <ARTIST></ARTIST>
+		                    <ARTIST></ARTIST>
+		                    <NAME></NAME>
+		                    <FROM></FROM>
+		                    <TO>London</TO>
+                </PERMANENT_EXHIBITION>
+                <MUSEUM_NAME>CAR</MUSEUM_NAME>
+    </MUSEUM>
+</MUSEUMS>
